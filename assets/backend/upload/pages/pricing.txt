@@ -1,0 +1,222 @@
+    <!--Start Pricing Page-->
+    <section class="pricing">
+
+        <!--Start Three Column Pricing Plan-->
+        <div class="pricing-plan-two layout-two">
+            <!--Start container-->
+            <div class="container">
+                <!--Start Section Title-->
+                <div class="section-title">
+                    <h2 class="text-center text-bold">CHOOSE<span class="text-normal"> YOUR PLAN</span></h2>
+                </div>
+                <!--End Section Title-->
+
+                <!--Start Row-->
+                <div class="row">
+                    <!--Start Pricing Table Col-->
+                    <div class="col-md-4">
+                        <!--Start Pricing Table-->
+                        <div class="pricing-table-two">
+                            <div class="pricing-table-top">
+                                <h1 class="price-title text-center text-bold">Basic</h1>
+                                <h2 class="text-center text-bold">$<sub>19</sub> 99<span> <sub> / month</sub></span></h2>
+                            </div>
+                            <div class="pricing-table-content">
+                                <ul class="text-center">
+                                    <li><i class="fa fa-close"></i> Unlimited Properties</li>
+                                    <li><i class="fa fa-close"></i> Unlimited Listing</li>
+                                    <li><i class="fa fa-check"></i> Featured Properties </li>
+                                    <li><i class="fa fa-check"></i> Agency Profiles</li>
+                                    <li><i class="fa fa-close"></i> Dedicated Support </li>
+                                    <li><i class="fa fa-check"></i> Lifetime Updates</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-table-btn-two text-center">
+                                <a class="text-center" href="">SELECT PLAN</a>
+                            </div>
+                        </div>
+                        <!--End Pricing Table-->
+                    </div>
+                    <!--End Pricing Table Col-->
+
+                    <!--Start Pricing Table Col-->
+                    <div class="col-md-4">
+                        <!--Start Pricing Table-->
+                        <div class="pricing-table-two selected">
+                            <div class="pricing-table-two-selected">
+                                <h3 class="text-center text-bold">Most Popular</h3>
+                            </div>
+                            <div class="pricing-table-top">
+                                <h1 class="price-title text-center text-bold">Premium</h1>
+                                <h2 class="text-center text-bold">$<sub>29</sub> 99<span> <sub> / month</sub></span></h2>
+                            </div>
+                            <div class="pricing-table-content">
+                                <ul class="text-center">
+                                    <li><i class="fa fa-check"></i> Unlimited Properties</li>
+                                    <li><i class="fa fa-check"></i> Unlimited Listing</li>
+                                    <li><i class="fa fa-check"></i> Featured Properties </li>
+                                    <li><i class="fa fa-check"></i> Agency Profiles</li>
+                                    <li><i class="fa fa-close"></i> Dedicated Support </li>
+                                    <li><i class="fa fa-check"></i> Lifetime Updates</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-table-btn-two text-center">
+                                <a class="text-center" href="">SELECT PLAN</a>
+                            </div>
+                        </div>
+                        <!--End Pricing Table-->
+                    </div>
+                    <!--End Pricing Table Col-->
+
+                    <!--Start Pricing Table Col-->
+                    <div class="col-md-4">
+                        <!--Start Pricing Table-->
+                        <div class="pricing-table-two">
+                            <div class="pricing-table-top">
+                                <h1 class="price-title text-center text-bold">Pro</h1>
+                                <h2 class="text-center text-bold">$<sub>49</sub> 99<span> <sub> / month</sub></span></h2>
+                            </div>
+                            <div class="pricing-table-content">
+                                <ul class="text-center">
+                                    <li><i class="fa fa-check"></i> Unlimited Properties</li>
+                                    <li><i class="fa fa-check"></i> Unlimited Listing</li>
+                                    <li><i class="fa fa-check"></i> Featured Properties </li>
+                                    <li><i class="fa fa-check"></i> Agency Profiles</li>
+                                    <li><i class="fa fa-check"></i> Dedicated Support </li>
+                                    <li><i class="fa fa-check"></i> Lifetime Updates</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-table-btn-two text-center">
+                                <a class="text-center" href="">SELECT PLAN</a>
+                            </div>
+                        </div>
+                        <!--End Pricing Table-->
+                    </div>
+                    <!--End Pricing Table Col-->
+                </div>
+                <!--End Row-->
+            </div>
+            <!--End container-->
+        </div>
+        <!--End Three Column Pricing Plan-->
+
+        <!--Start Four Column Pricing Plan-->
+        <div class="pricing-plan-two layout-two col-four">
+            <!--Start container-->
+            <div class="container">
+                <!--Start Row-->
+                <div class="row">
+                    <!--Start Pricing Table Col-->
+                    <div class="col-md-3">
+                        <!--Start Pricing Table-->
+                        <div class="pricing-table-two">
+                            <div class="pricing-table-top">
+                                <h1 class="price-title text-center text-bold">Free</h1>
+                                <h2 class="text-center text-bold">$<sub>00</sub> 00<span> <sub> / month</sub></span></h2>
+                            </div>
+                            <div class="pricing-table-content">
+                                <ul class="text-center">
+                                    <li><i class="fa fa-close"></i> Unlimited Properties</li>
+                                    <li><i class="fa fa-close"></i> Unlimited Listing</li>
+                                    <li><i class="fa fa-check"></i> Featured Properties </li>
+                                    <li><i class="fa fa-check"></i> Agency Profiles</li>
+                                    <li><i class="fa fa-close"></i> Dedicated Support </li>
+                                    <li><i class="fa fa-check"></i> Lifetime Updates</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-table-btn-two text-center">
+                                <a class="text-center" href="">SELECT PLAN</a>
+                            </div>
+                        </div>
+                        <!--End Pricing Table-->
+                    </div>
+                    <!--End Pricing Table Col-->
+
+                    <!--Start Pricing Table Col-->
+                    <div class="col-md-3">
+                        <!--Start Pricing Table-->
+                        <div class="pricing-table-two">
+                            <div class="pricing-table-top">
+                                <h1 class="price-title text-center text-bold">Basic</h1>
+                                <h2 class="text-center text-bold">$<sub>19</sub> 99<span> <sub> / month</sub></span></h2>
+                            </div>
+                            <div class="pricing-table-content">
+                                <ul class="text-center">
+                                    <li><i class="fa fa-close"></i> Unlimited Properties</li>
+                                    <li><i class="fa fa-close"></i> Unlimited Listing</li>
+                                    <li><i class="fa fa-check"></i> Featured Properties </li>
+                                    <li><i class="fa fa-check"></i> Agency Profiles</li>
+                                    <li><i class="fa fa-check"></i> Dedicated Support </li>
+                                    <li><i class="fa fa-check"></i> Lifetime Updates</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-table-btn-two text-center">
+                                <a class="text-center" href="">SELECT PLAN</a>
+                            </div>
+                        </div>
+                        <!--End Pricing Table-->
+                    </div>
+                    <!--End Pricing Table Col-->
+
+                    <!--Start Pricing Table Col-->
+                    <div class="col-md-3">
+                        <!--Start Pricing Table-->
+                        <div class="pricing-table-two selected">
+                            <div class="pricing-table-two-selected">
+                                <h3 class="text-center text-bold">Most Popular</h3>
+                            </div>
+                            <div class="pricing-table-top">
+                                <h1 class="price-title text-center text-bold">Premium</h1>
+                                <h2 class="text-center text-bold">$<sub>29</sub> 99<span> <sub> / month</sub></span></h2>
+                            </div>
+                            <div class="pricing-table-content">
+                                <ul class="text-center">
+                                    <li><i class="fa fa-check"></i> Unlimited Properties</li>
+                                    <li><i class="fa fa-check"></i> Unlimited Listing</li>
+                                    <li><i class="fa fa-check"></i> Featured Properties </li>
+                                    <li><i class="fa fa-check"></i> Agency Profiles</li>
+                                    <li><i class="fa fa-close"></i> Dedicated Support </li>
+                                    <li><i class="fa fa-check"></i> Lifetime Updates</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-table-btn-two text-center">
+                                <a class="text-center" href="">SELECT PLAN</a>
+                            </div>
+                        </div>
+                        <!--End Pricing Table-->
+                    </div>
+                    <!--End Pricing Table Col-->
+
+                    <!--Start Pricing Table Col-->
+                    <div class="col-md-3">
+                        <!--Start Pricing Table-->
+                        <div class="pricing-table-two">
+                            <div class="pricing-table-top">
+                                <h1 class="price-title text-center text-bold">Pro</h1>
+                                <h2 class="text-center text-bold">$<sub>49</sub> 99<span> <sub> / month</sub></span></h2>
+                            </div>
+                            <div class="pricing-table-content">
+                                <ul class="text-center">
+                                    <li><i class="fa fa-check"></i> Unlimited Properties</li>
+                                    <li><i class="fa fa-check"></i> Unlimited Listing</li>
+                                    <li><i class="fa fa-check"></i> Featured Properties </li>
+                                    <li><i class="fa fa-check"></i> Agency Profiles</li>
+                                    <li><i class="fa fa-check"></i> Dedicated Support </li>
+                                    <li><i class="fa fa-check"></i> Lifetime Updates</li>
+                                </ul>
+                            </div>
+                            <div class="pricing-table-btn-two text-center">
+                                <a class="text-center" href="">SELECT PLAN</a>
+                            </div>
+                        </div>
+                        <!--End Pricing Table-->
+                    </div>
+                    <!--End Pricing Table Col-->
+                </div>
+                <!--End Row-->
+            </div>
+            <!--End container-->
+        </div>
+        <!--End Four Column Pricing Plan-->
+    </section>
+    <!--End Pricing Page-->

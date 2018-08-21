@@ -1,0 +1,215 @@
+    <!--Start Team Page Section-->
+    <section class="team-page">
+
+        <!--Start Team Member Div-->
+        <div class="team">
+            <!--Start Team Member container-->
+            <div class="container">
+                <!--Start Section Title-->
+                <div class="section-title">
+                    <h2 class="text-center text-bold text-upper">Our <span>Team</span> Member</h2>
+                    <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                </div>
+                <!--End Section Title-->
+
+                <!--Start Team Member Row-->
+                <div class="row">
+                    <!--Start Team Member Col-->
+                    <div class="col-sm-3 col-xs-6">
+                        <!--Start Team Member-->
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="images/team/img-1.png" alt="">
+                            </div>
+                            <div class="member-info text-center">
+                                <h3 class="text-bold">Jhon Doe</h3>
+                                <p class="text-bold">Marketing Specialist</p>
+                            </div>
+                            <div class="member-social">
+                                <ul>
+                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                    <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--SEndtart Team Member-->
+                    </div>
+                    <!--Start Team Member Col-->
+
+                    <!--Start Team Member Col-->
+                    <div class="col-sm-3 col-xs-6">
+                        <!--Start Team Member-->
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="images/team/img-2.png" alt="">
+                            </div>
+                            <div class="member-info text-center">
+                                <h3 class="text-bold">Jhon Doe</h3>
+                                <p class="text-bold">Marketing Specialist</p>
+                            </div>
+                            <div class="member-social">
+                                <ul>
+                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                    <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--SEndtart Team Member-->
+                    </div>
+                    <!--Start Team Member Col-->
+
+                    <!--Start Team Member Col-->
+                    <div class="col-sm-3 col-xs-6">
+                        <!--Start Team Member-->
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="images/team/img-3.png" alt="">
+                            </div>
+                            <div class="member-info text-center">
+                                <h3 class="text-bold">Jhon Doe</h3>
+                                <p class="text-bold">Marketing Specialist</p>
+                            </div>
+                            <div class="member-social">
+                                <ul>
+                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                    <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--SEndtart Team Member-->
+                    </div>
+                    <!--Start Team Member Col-->
+
+                    <!--Start Team Member Col-->
+                    <div class="col-sm-3 col-xs-6">
+                        <!--Start Team Member-->
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="images/team/img-4.png" alt="">
+                            </div>
+                            <div class="member-info text-center">
+                                <h3 class="text-bold">Jhon Doe</h3>
+                                <p class="text-bold">Marketing Specialist</p>
+                            </div>
+                            <div class="member-social">
+                                <ul>
+                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                    <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--SEndtart Team Member-->
+                    </div>
+                    <!--Start Team Member Col-->
+
+                    <!--Start Team Member Col-->
+                    <div class="col-sm-3 col-xs-6">
+                        <!--Start Team Member-->
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="images/team/img-3.png" alt="">
+                            </div>
+                            <div class="member-info text-center">
+                                <h3 class="text-bold">Jhon Doe</h3>
+                                <p class="text-bold">Marketing Specialist</p>
+                            </div>
+                            <div class="member-social">
+                                <ul>
+                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                    <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--SEndtart Team Member-->
+                    </div>
+                    <!--Start Team Member Col-->
+
+                    <!--Start Team Member Col-->
+                    <div class="col-sm-3 col-xs-6">
+                        <!--Start Team Member-->
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="images/team/img-1.png" alt="">
+                            </div>
+                            <div class="member-info text-center">
+                                <h3 class="text-bold">Jhon Doe</h3>
+                                <p class="text-bold">Marketing Specialist</p>
+                            </div>
+                            <div class="member-social">
+                                <ul>
+                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                    <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--SEndtart Team Member-->
+                    </div>
+                    <!--Start Team Member Col-->
+
+                    <!--Start Team Member Col-->
+                    <div class="col-sm-3 col-xs-6">
+                        <!--Start Team Member-->
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="images/team/img-4.png" alt="">
+                            </div>
+                            <div class="member-info text-center">
+                                <h3 class="text-bold">Jhon Doe</h3>
+                                <p class="text-bold">Marketing Specialist</p>
+                            </div>
+                            <div class="member-social">
+                                <ul>
+                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                    <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--SEndtart Team Member-->
+                    </div>
+                    <!--Start Team Member Col-->
+
+                    <!--Start Team Member Col-->
+                    <div class="col-sm-3 col-xs-6">
+                        <!--Start Team Member-->
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="images/team/img-2.png" alt="">
+                            </div>
+                            <div class="member-info text-center">
+                                <h3 class="text-bold">Jhon Doe</h3>
+                                <p class="text-bold">Marketing Specialist</p>
+                            </div>
+                            <div class="member-social">
+                                <ul>
+                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                                    <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--SEndtart Team Member-->
+                    </div>
+                    <!--Start Team Member Col-->
+                </div>
+                <!--End Team Member Row-->
+            </div>
+            <!--End Team Member container-->
+        </div>
+        <!--End Team Member Div-->
+    </section>
+    <!--End Team Page Section-->

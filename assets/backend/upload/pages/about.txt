@@ -1,0 +1,96 @@
+<section class="about-us"><!--Start container-->
+<div class="container"><!--Start Mission-->
+<div class="about-mission"><!--Start Mission Row-->
+<div class="row"><!--Start Col-->
+<div class="col-md-6">
+<h2>Our Mission</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet ducimus voluptatem neque officia, culpa mollitia dolor corrupti numquam suscipit perspiciatis. At facere consequuntur magnam eius veniam eligendi eveniet illo. Deleniti reprehenderit pariatur mollitia nam omnis unde quos placeat, quibusdam tenetur dolorum dicta, libero ratione, laboriosam dolore animi.</p>
+<p>Minus cum enim nobis blanditiis molestias, placeat sint tenetur quasi repudiandae excepturi, animi dolorem quam quia, omnis! A ducimus cumque omnis sequi, delectus, molestiae, perspiciatis fugit nulla suscipit illum ex ipsum reiciendis praesentium dicta incidunt. Quos explicabo vero, tempora ipsum alias enim possimus. Reprehenderit eligendi rem, consequatur perferendis enim dolores quisquam, iusto est!</p>
+</div>
+<!--End Col--> <!--Start Col-->
+<div class="col-md-6"><img src="https://pk.daraz.io/RWFtXoe93WbF8ODfdvwcpr0symw=/fit-in/680x680/filters:fill(white)/product/13/47386/1.jpg?6106" alt="" width="680" height="680" /></div>
+<!--End Col--></div>
+<!--End Mission Row--></div>
+<!--End Mission--> <!--Start Service-->
+<div class="about-service">
+<div class="service-title">
+<h2 class="text-center text-bold">Our Services</h2>
+<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita, aut.</p>
+</div>
+<!--Start Service Content-->
+<div class="about-serv-cont"><!--Start Service Row-->
+<div class="row"><!--Start Service Item Col-->
+<div class="col-md-4 col-sm-6"><!--Start Service Item-->
+<div class="about-serv-cont-item">
+<h3 class="text-center">Free Listing Account</h3>
+<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet sapiente et recusandae! Nemo non aperiam perspiciatis voluptate nostrum culpa delectus.</p>
+</div>
+<!--End Service Item Col--></div>
+<!--End Service Item Col--> <!--Start Service Item Col-->
+<div class="col-md-4 col-sm-6"><!--Start Service Item-->
+<div class="about-serv-cont-item">
+<h3 class="text-center">Unlimited Listing</h3>
+<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet sapiente et recusandae! Nemo non aperiam perspiciatis voluptate nostrum culpa delectus.</p>
+</div>
+<!--End Service Item Col--></div>
+<!--End Service Item Col--> <!--Start Service Item Col-->
+<div class="col-md-4 col-sm-6"><!--Start Service Item-->
+<div class="about-serv-cont-item">
+<h3 class="text-center">User Analytics</h3>
+<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet sapiente et recusandae! Nemo non aperiam perspiciatis voluptate nostrum culpa delectus.</p>
+</div>
+<!--End Service Item Col--></div>
+<!--End Service Item Col--> <!--Start Service Item Col-->
+<div class="col-md-4 col-sm-6"><!--Start Service Item-->
+<div class="about-serv-cont-item">
+<h3 class="text-center">100% Secured Money</h3>
+<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet sapiente et recusandae! Nemo non aperiam perspiciatis voluptate nostrum culpa delectus.</p>
+</div>
+<!--End Service Item Col--></div>
+<!--End Service Item Col--> <!--Start Service Item Col-->
+<div class="col-md-4 col-sm-6"><!--Start Service Item-->
+<div class="about-serv-cont-item">
+<h3 class="text-center">High Revenue Share</h3>
+<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet sapiente et recusandae! Nemo non aperiam perspiciatis voluptate nostrum culpa delectus.</p>
+</div>
+<!--End Service Item Col--></div>
+<!--End Service Item Col--> <!--Start Service Item Col-->
+<div class="col-md-4 col-sm-6"><!--Start Service Item-->
+<div class="about-serv-cont-item">
+<h3 class="text-center">Best Search Engine</h3>
+<p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet sapiente et recusandae! Nemo non aperiam perspiciatis voluptate nostrum culpa delectus.</p>
+</div>
+<!--End Service Item Col--></div>
+<!--End Service Item Col--></div>
+<!--End Service Row--></div>
+<!--End Service Content--></div>
+<!--End Service--> <!--Start Info-->
+<div class="about-info"><!--Start Info Row-->
+<div class="row"><!--Start Col-->
+<div class="col-md-6 col-sm-12">image link will be here</div>
+<!--End Col--> <!--Start Col-->
+<div class="col-md-6 col-sm-12">
+<div class="about-info-cont">
+<h2>Why We Are Best?</h2>
+<div class="col-sm-6">
+<h4>100% Secured Money</h4>
+<h4>Money Back Guarantee</h4>
+<h4>Dedicated Support Team</h4>
+<h4>Unlimited Listing</h4>
+<h4>Instant Approval</h4>
+<h4>High Revenue Share</h4>
+</div>
+<div class="col-sm-6">
+<h4>High Revenue Share</h4>
+<h4>Instant Approval</h4>
+<h4>Unlimited Listing</h4>
+<h4>No Extra Hidden Charge</h4>
+<h4>Dedicated Support Team</h4>
+<h4>24/7 Hours Support</h4>
+</div>
+</div>
+</div>
+<!--End Col--></div>
+<!--End Info Row--></div>
+<!--End Info--></div>
+<!--End container--></section>

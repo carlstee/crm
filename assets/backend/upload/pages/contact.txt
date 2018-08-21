@@ -1,0 +1,188 @@
+ <!--Start Contact Section-->
+    <section class="contact-page">
+
+        <!--Start Contact Contents-->
+        <div class="contact layout-four">
+            <!--Start Google Map-->
+            <div id="cont-map"></div>
+            <!--End Google Map-->
+
+            <!--Start container-->
+            <div class="container">
+                <!--Start Row-->
+                <div class="row">
+                    <!--Start Contact Content-->
+                    <div class="contact-layout-four-cont">
+                        <!--Start Contact Info Col-->
+                        <div class="col-sm-6">
+                            <div class="contact-info-text">
+                                <h2>Get In Touch</h2>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia doloribus atque quidem, quos nesciunt laudantium ex quae facilis asperiores architecto!</p>
+                            </div>
+                            <!--Start Contact Info-->
+                            <div class="contact-info">
+                                <div class="cont-item">
+                                    <div class="cont-item-left">
+                                        <span><i class="fa fa-map-marker"></i></span>
+                                    </div>
+                                    <div class="cont-item-right">
+                                        <h3 class="text-upper text-bold">Location</h3>
+                                        <p>34 Oval Street, New York, USA</p>
+                                    </div>
+                                </div>
+                                <div class="cont-item">
+                                    <div class="cont-item-left">
+                                        <span><i class="fa fa-envelope"></i></span>
+                                    </div>
+                                    <div class="cont-item-right">
+                                        <h3 class="text-upper text-bold">Email</h3>
+                                        <p>info@yourmail.com</p>
+                                        <p>info@yourmail.com</p>
+                                    </div>
+                                </div>
+                                <div class="cont-item">
+                                    <div class="cont-item-left">
+                                        <span><i class="fa fa-mobile"></i></span>
+                                    </div>
+                                    <div class="cont-item-right">
+                                        <h3 class="text-upper text-bold">Phone</h3>
+                                        <p>(+880) 1234 56789</p>
+                                        <p>(+880) 1234 56789</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="contact-social">
+                                <h4 class="text-bold">Follow Us</h4>
+                                <ul>
+                                    <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href=""><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href=""><i class="fa fa-pinterest"></i></a></li>
+                                </ul>
+                            </div>
+                            <!--End Contact Info-->
+                        </div>
+                        <!--End Contact Info Col-->
+
+                        <!--Start Contact Form Col-->
+                        <div class="col-sm-6">
+                            <h2 class="text-center">Send Us A Message</h2>
+                            <!--Start Contact Form-->
+                            <div class="contact-form">
+                                <form action="#" method="POST">
+                                    <div class="col-md-12">
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" placeholder="Name">
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="email" class="form-control" placeholder="Email">
+                                        </div>
+                                        <div class="form-group">
+                                            <input type="text" class="form-control" placeholder="Subject">
+                                        </div>
+                                        <div class="form-group">
+                                            <textarea class="form-control" rows="10" required="required" placeholder="Message"></textarea>
+                                            <button type="submit" class="btn btn-primary">Submit</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                            <!--End Contact Form-->
+                        </div>
+                        <!--End Contact Form Col-->
+                    </div>
+                    <!--End Contact Content-->
+                </div>
+                <!--End Row-->
+            </div>
+            <!--End container-->
+        </div>
+        <!--End Contact Contents-->
+    </section>
+    <!--End Contact Section-->
+    <script>
+        function initMap() {
+            // Styles a map in night mode.
+            var map = new google.maps.Map(document.getElementById('cont-map'), {
+                center: {
+                    lat: 40.690,
+                    lng: -73.945
+                },
+                zoom: 12,
+                styles: [{
+                    "featureType": "administrative",
+                    "elementType": "labels.text.fill",
+                    "stylers": [{
+                        "color": "#444444"
+                    }]
+                }, {
+                    "featureType": "landscape",
+                    "elementType": "all",
+                    "stylers": [{
+                        "color": "#f2f2f2"
+                    }]
+                }, {
+                    "featureType": "poi",
+                    "elementType": "all",
+                    "stylers": [{
+                        "visibility": "off"
+                    }]
+                }, {
+                    "featureType": "road",
+                    "elementType": "all",
+                    "stylers": [{
+                        "saturation": -100
+                    }, {
+                        "lightness": 45
+                    }]
+                }, {
+                    "featureType": "road.highway",
+                    "elementType": "all",
+                    "stylers": [{
+                        "visibility": "simplified"
+                    }]
+                }, {
+                    "featureType": "road.arterial",
+                    "elementType": "labels.icon",
+                    "stylers": [{
+                        "visibility": "off"
+                    }]
+                }, {
+                    "featureType": "transit",
+                    "elementType": "all",
+                    "stylers": [{
+                        "visibility": "off"
+                    }]
+                }, {
+                    "featureType": "water",
+                    "elementType": "all",
+                    "stylers": [{
+                        "color": "#46bcec"
+                    }, {
+                        "visibility": "on"
+                    }]
+                }]
+            });
+            // Let's also add a marker while we're at it
+            var marker = new google.maps.Marker({
+                position: new google.maps.LatLng(40.6800, -73.9400),
+                map: map,
+                icon: {
+                    url: "{{url('/')}}/assets/frontend/images/others/marker-4.png"
+                },
+                title: 'Ad Directory',
+                animation: google.maps.Animation.DROP
+            });
+            marker.addListener('click', toggleBounce);
+
+            function toggleBounce() {
+                if (marker.getAnimation() !== null) {
+                    marker.setAnimation(null);
+                } else {
+                    marker.setAnimation(google.maps.Animation.BOUNCE);
+                }
+
+            }
+        }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC4yKUBz0tTKwfw8zY8mYOR7MAZy9coIMg&callback=initMap" async defer></script>

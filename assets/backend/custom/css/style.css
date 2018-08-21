@@ -1,0 +1,173 @@
+
+/*modal select option*/
+select#status {
+  margin-left: -15px;
+}
+/*set full width button*/
+a.btn.yellow.plan_edit_btn {
+  width: 100%;
+}
+/*set margin for file upload button*/
+input#payment_picture {
+  margin-left: -15px;
+}
+/*overwrite bootstrap css class for font-size*/
+.control-label {
+  font-size: 13px;
+}
+/*submit button margin left */
+
+input.btn.green.custom-class-for-btn {
+  margin-left: -75%;
+}
+/*payment image margin left*/
+.image img {
+  width: 200px;
+  margin-left: -51%;
+}
+.image h4{
+  margin-left: -51%;
+}
+/* modal old image preview box */
+
+.form-level{
+  padding-bottom: 10px;
+}
+.bootstrap-switch.bootstrap-switch-wrapper.bootstrap-switch-small.bootstrap-switch-animate.bootstrap-switch-on {
+  margin-left: -15px;
+}
+.bootstrap-switch.bootstrap-switch-wrapper.bootstrap-switch-small.bootstrap-switch-animate.bootstrap-switch-off {
+  margin-left: -15px;
+}
+/*Preview Image css*/
+#preview-box,
+#preview-box-edit,
+#preview-box_perfect_picture,
+#preview-box-btc-picture,
+#preview-box-stripe
+{
+    margin-top:20px;
+    height: 200px;
+    width: 200px;
+}
+#preview-box-fevicon,
+#preview-box-logo{
+    margin-top:20px;
+    height: 100px;
+    width: 100px;
+}
+/*menu management css */
+form#general_settings_form input[type=number] {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ddd;
+}
+/*page management switch menu*/
+.page-switch{
+  margin-left:-15px;
+}
+/*Parsley Validation*/
+input.parsley-success,
+select.parsley-success,
+textarea.parsley-success {
+  color: #468847;
+  background-color: #DFF0D8;
+  border: 1px solid #D6E9C6;
+}
+/*page name input filed width set*/
+input#page_name{
+  width: 348%;
+}
+/*master page top bar btn*/
+.dropdown-toggle.top_bar_btn {
+  color: #fff;
+  display: inline-block;
+}
+li.top_bar_li a:hover {
+  background: transparent;
+}
+/*parsley Validation*/
+input.parsley-error,
+select.parsley-error,
+textarea.parsley-error {
+  color: #B94A48;
+  background-color: #F2DEDE;
+  border: 1px solid #EED3D7;
+}
+
+.parsley-errors-list {
+  margin: 2px 0 3px;
+  padding: 0;
+  list-style-type: none;
+  font-size: 0.9em;
+  line-height: 0.9em;
+  opacity: 0;
+
+  transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -webkit-transition: all .3s ease-in;
+}
+
+.parsley-errors-list.filled {
+  opacity: 1;
+}
+
+textarea#meta_keyword,
+textarea#meta_description{
+  width: 340px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+}
+#logo_preview_box{
+  width: 180px;
+  height: 100px;
+}
+#favicon_preview_box {
+  width: 50px;
+  height: 50px;
+}
+.image_logo img {
+  width: 140px;
+  height: 100px;
+}
+.image_favicon img {
+  width: 20px;
+  height: 20px;
+}
+#about_widget:focus{
+  outline: none;
+}
+/*color picker css*/
+
+p#color-picker {
+  position: relative;
+}
+
+.color {
+  position: absolute;
+  left: 16px;
+  bottom: -24px;
+}
+.input-group.text_area_own div.nicEdit-panelContain,
+.input-group.text_area_own div.nicEdit-main {
+  width: 700% !important;
+}
+/*create btn*/
+.create-btn {
+  padding-bottom: 25px;
+}
+/*help text*/
+.help-text {
+  padding: 10px;
+  text-align: left;
+}
+/*custom button margin left*/
+.btn.green.custom-class-for-btn-2 {
+  margin-left: -15px;
+}
+/*table font color change*/
+table.table-striped.font_color_black {
+  color: #000;
+}
